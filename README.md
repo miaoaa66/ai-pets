@@ -4,6 +4,15 @@
 Codex、Claude Code、DeepSeek Harness、Hermes、OpenCode、Gemini CLI 等的宠物
 
 
+
+
+## 预览   
+
+
+![alt text](./static/preview.gif)
+
+
+
 ## 下载和配置pet
 
 
